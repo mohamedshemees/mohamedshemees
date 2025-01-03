@@ -25,10 +25,8 @@ I'm a passionate software developer with a keen interest in Android development,
 
    <a href="https://stackoverflow.com/users/12286737/mohamedesam" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12286737/mohamedesam)](https://stackoverflow.com/users/12286737/mohamedesam)"></a>
 
-   <a href=" https://leetcode.com/u/mohamed_shemees/" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=leetcode&logoColor=white&link= https://leetcode.com/u/mohamed_shemees/)]( https://leetcode.com/u/mohamed_shemees/)"></a>
+   <a href=" https://leetcode.com/u/mohamed_shemees/" target="_blank"><img src="https://img.shields.io/badge/-leetcode-222222?style=flat-square&logo=leetcode&logoColor=white&link= https://leetcode.com/u/mohamed_shemees/)]( https://leetcode.com/u/mohamed_shemees/)"></a>
 
 
 
-
-   https://leetcode.com/u/mohamed_shemees/
 </P>
