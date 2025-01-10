@@ -21,13 +21,4 @@ I'm a passionate software developer with a keen interest in Android development,
  <p>
        <a href="https://www.linkedin.com/in/mohamed-esam-630529248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-esam-630529248/)](https://www.linkedin.com/in/mohamed-esam-630529248//"></a>
    
-  <a href="https://www.hackerrank.com/profile/mohamedessampd" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/mohamedessampd)]([www.hackerrank.com/profile/mohamedessampd](https://www.hackerrank.com/profile/mohamedessampd)"></a>
-
-   <a href="https://stackoverflow.com/users/12286737/mohamedesam" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12286737/mohamedesam)](https://stackoverflow.com/users/12286737/mohamedesam)"></a>
-
-
-   <a href=" https://leetcode.com/u/mohamed_shemees" target="_blank"><img src="https://img.shields.io/badge/-leetcode-222222?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mohamed_shemees)](https://leetcode.com/u/mohamed_shemees)"></a>
-
-
-
 </P>
