@@ -4,7 +4,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-I'm a passionate software developer with a keen interest in Android development, data science, and AI. I love learning new technologies and applying them to solve real-world problems. I'm actively seeking internships and junior positions in software development.
+I'm a passionate software developer with a keen interest in Android development. I love learning new technologies and applying them to solve real-world problems. I'm actively seeking internships and junior positions in software development.
 
 - 💻 B.Sc. in Computer Science
 - 🌱 Continuously Learning All about Android development .
