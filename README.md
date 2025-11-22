@@ -18,7 +18,7 @@ I work mainly with **Kotlin**, **Java**, **Jetpack Compose**, and **Kotlin Multi
 Always curious, always building — I enjoy learning new technologies and applying them to solve real-world problems.  
 
 - 🎓 B.Sc. in Computer Science  
-- 🌱 Currently exploring **KMP** and advanced **Compose** patterns  
+- 💻 Building well-designed, high-quality apps with Kotlin Multiplatform 
 - 🔍 Open to **internships** and **junior Android positions**  
 
 ---
@@ -60,7 +60,6 @@ Always curious, always building — I enjoy learning new technologies and applyi
   <img src="https://img.shields.io/badge/Agile-FF6F61?style=flat"/>
   <img src="https://img.shields.io/badge/Scrum-6A1B9A?style=flat"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
 ---
