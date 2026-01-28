@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 <h2 align="center">
-I'm Mohamed — Android Developer 🚀
+I'm Mohamed — Mobile Developer 🚀
 </h2>
 <h2 align="center">
  <a href="https://mohamedshemees.github.io/index" target="_blank"> My Portfolio </a>
@@ -9,17 +9,15 @@ I'm Mohamed — Android Developer 🚀
 
 
 
-
-
 <h3>💻 About Me</h3>
 
-I’m a passionate **Android Developer** who loves crafting modern, user-friendly mobile apps.  
-I work mainly with **Kotlin**, **Java**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**.  
+I’m a passionate **Mobile Developer** who loves crafting modern, user-friendly mobile apps.  
+I work mainly with **Kotlin**, **Java**, **Jetpack Compose**, **Kotlin Multiplatform (KMP)**, **Dart**, and **Flutter**.  
 Always curious, always building — I enjoy learning new technologies and applying them to solve real-world problems.  
 
 - 🎓 B.Sc. in Computer Science  
 - 💻 Building well-designed, high-quality apps with Kotlin Multiplatform 
-- 🔍 Open to **internships** and **junior Android positions**  
+- 🔍 Open to **internships** and **junior mobile positions**  
 
 ---
 
@@ -32,6 +30,8 @@ Always curious, always building — I enjoy learning new technologies and applyi
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/KMP-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Databases & Backend Services
