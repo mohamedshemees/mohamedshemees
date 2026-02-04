@@ -67,8 +67,8 @@ Always curious, always building — I enjoy learning new technologies and applyi
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedshemees&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedshemees&show_icons=true&theme=tokyonight" height="160"/></p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedshemees&theme=tokyonight" height="160"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedshemees&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20work-Yes-blue?style=for-the-badge"/>
