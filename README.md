@@ -64,15 +64,38 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedshemees&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedshemees&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedshemees&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-blue?style=for-the-badge"/>
-</p>
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedshemees&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=2d77dc&line=2d77dc&point=c3e88d&area_color=2d77dc&title_color=2d77dc&area=true" alt="Contribution Graph" />
+
+<br/>
+
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedshemees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=2d77dc&icon_color=2d77dc&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="Mohamed's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedshemees&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2d77dc&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+
+<br/>
+
+<!-- Contribution Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=mohamedshemees&theme=tokyonight&hide_border=true&background=1A1B27&stroke=2D77DC&ring=2D77DC&fire=FF6B35&currStreakLabel=2D77DC&sideLabels=2D77DC&currStreakNum=C3E88D&dates=70A5FD&sideNums=C3E88D&border=1A1B27" alt="GitHub Streak Stats" />
+
+<br/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedshemees&theme=tokyonight" alt="Profile Details"/>
+
+<br/>
+
+
+
+<!-- Profile Views & Status -->
+<img src="https://komarev.com/ghpvc/?username=mohamedshemees&style=for-the-badge&color=2d77dc" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2d77dc?style=for-the-badge"/>
+
+</div>
 
 ---
 
