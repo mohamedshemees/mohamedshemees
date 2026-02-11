@@ -1,4 +1,4 @@
-### Hi there 👋  
+<h3 align="center">Hi there 👋</h3>
 
 <h2 align="center">
 I'm Mohamed — Mobile Developer 🚀
@@ -6,7 +6,6 @@ I'm Mohamed — Mobile Developer 🚀
 <h2 align="center">
  <a href="https://mohamedshemees.github.io/index" target="_blank"> My Portfolio </a>
 </h2>
-
 
 
 <h3>💻 About Me</h3>
@@ -21,10 +20,10 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-### Mobile & Languages
-<p align="left">
+<h3 align="center">Mobile & Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -34,16 +33,16 @@ Always curious, always building — I enjoy learning new technologies and applyi
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### Databases & Backend Services
-<p align="left">
+<h3 align="center">Databases & Backend Services</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### Libraries & Frameworks
-<p align="left">
+<h3 align="center">Libraries & Frameworks</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/DI-Hilt-9cf?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/DI-Koin-blueviolet?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-Retrofit-ff69b4?style=flat&logo=square&logoColor=white"/>
@@ -54,8 +53,8 @@ Always curious, always building — I enjoy learning new technologies and applyi
   <img src="https://img.shields.io/badge/Image-Coil-03A9F4?style=flat&logo=android&logoColor=white"/>
 </p>
 
-### Workflow & DevOps
-<p align="left">
+<h3 align="center">Workflow & DevOps</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-FF6F61?style=flat"/>
   <img src="https://img.shields.io/badge/Scrum-6A1B9A?style=flat"/>
@@ -64,7 +63,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 ---
 
-## 📊 GitHub Stats & Contributions
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
 
 <div align="center">
 
@@ -99,7 +98,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 ---
 
-## 📬 Connect with Me  
+<h2 align="center">📬 Connect with Me</h2>  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedshemees/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
