@@ -18,6 +18,20 @@ Always curious, always building — I enjoy learning new technologies and applyi
 - 💻 Building well-designed, high-quality apps with Kotlin Multiplatform 
 - 🔍 Open to **internships** and **junior mobile positions**  
 
+## 🚀 My Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [MoneyPlusPlus (Flutter)](https://github.com/mohamedshemees/MoneyPlus) | Smart finance tracking app with visual reports and transaction logging. | Flutter, Dart, Cubit, Charts |
+| [CurrencyX (Flutter)](https://github.com/mohamedshemees/currencyX_flutter) | Real-time currency exchange rates app with Clean Architecture. | Flutter, Dio, Cubit, Clean Architecture |
+| [MENA (KMP)](https://github.com/mohamedshemees/MENA-mobile) | A super-app for the MENA region featuring messaging, blockchain gifts, and e-commerce. | Kotlin Multiplatform, Compose Multiplatform |
+| [Aflami App (Jetpack Compose)](https://github.com/mohamedshemees/Aflami) | Movie and TV show exploration app powered by TMDB API with modular Clean Architecture. | Kotlin, TMDB API, Clean Architecture, Modularization |
+| [Weather App (Jetpack Compose)](https://github.com/mohamedshemees/MyWeatherApp) | Jetpack Compose weather app featuring Ktor, Koin, and real-time location tracking. | Jetpack Compose, Ktor, Koin, Location API |
+| [E-Commerce App (Kotlin/XML)](https://github.com/mohamedshemees/ShopSurf) | Full-featured e-commerce app with Supabase authentication, database, and storage. | Kotlin, XML UI, Supabase, Hilt, Ktor |
+| [TimeAhead (Kotlin/XML)](https://github.com/mohamedshemees/TimeAhead) | Minimalistic Clock app featuring Alarm, Stopwatch, and Timer with MVVM architecture. | Kotlin, MVVM, Room, AlarmManager |
+| [Tasty Food App (Android/XML)](https://github.com/mohamedshemees/tasty-food-app) | Modern Android app demonstrating Clean Architecture, MVVM, and local persistence. | Kotlin, Retrofit, Room, Hilt, MVVM |
+| [CurrencyX (Kotlin)](https://github.com/mohamedshemees/CurrencyX) | Real-time currency price tracking app with an intuitive interface. | Kotlin, Retrofit, StateFlow |
+
 ---
 
 <h2 align="center">⚡ Tech Stack</h2>
