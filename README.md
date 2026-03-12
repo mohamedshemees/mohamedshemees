@@ -1,10 +1,10 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">Hi there</h3>
 
 <h2 align="center">
-I'm Mohamed — Mobile Developer 🚀
+I'm Mohamed — Mobile Developer 
 </h2>
 <h2 align="center">
- <a href="https://mohamedshemees.github.io/index" target="_blank"> My Portfolio </a>
+  <a href="https://mohamedshemees.github.io/index" target="_blank"> ➹ My Portfolio ➹ </a>
 </h2>
 
 
@@ -22,7 +22,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [MoneyPlusPlus (Flutter)](https://github.com/mohamedshemees/MoneyPlus) | Smart finance tracking app with visual reports and transaction logging. | Flutter, Dart, Cubit, Charts |
+| [MoneyPlusPlus (Flutter)](https://github.com/mohamedshemees/MoneyPlus) | Smart finance tracking app with visual reports and transaction logging. | Flutter, Dart, Firebase, Supabase, Cubit, Charts, Flutter Secure Storage |
 | [CurrencyX (Flutter)](https://github.com/mohamedshemees/currencyX_flutter) | Real-time currency exchange rates app with Clean Architecture. | Flutter, Dio, Cubit, Clean Architecture |
 | [MENA (KMP)](https://github.com/mohamedshemees/MENA-mobile) | A super-app for the MENA region featuring messaging, blockchain gifts, and e-commerce. | Kotlin Multiplatform, Compose Multiplatform |
 | [Aflami App (Jetpack Compose)](https://github.com/mohamedshemees/Aflami) | Movie and TV show exploration app powered by TMDB API with modular Clean Architecture. | Kotlin, TMDB API, Clean Architecture, Modularization |
@@ -36,7 +36,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 <h2 align="center">⚡ Tech Stack</h2>
 
-<h3 align="center">Mobile & Languages</h3>
+<h3 align="center">Mobile Platforms & Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
