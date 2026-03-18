@@ -51,6 +51,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
@@ -64,12 +65,14 @@ Always curious, always building — I enjoy learning new technologies and applyi
   <img src="https://img.shields.io/badge/Database-Room-green?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Async-Coroutines-red?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reactive-Flow-teal?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State_Management-Cubit-blue?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Image-Coil-03A9F4?style=flat&logo=android&logoColor=white"/>
 </p>
 
 <h3 align="center">Workflow & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Agile-FF6F61?style=flat"/>
   <img src="https://img.shields.io/badge/Scrum-6A1B9A?style=flat"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
