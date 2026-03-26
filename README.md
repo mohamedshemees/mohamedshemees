@@ -4,7 +4,7 @@
 I'm Mohamed — Mobile Developer 
 </h2>
 <h2 align="center">
-  <a href="https://mohamedshemees.github.io/index" target="_blank"> ➹ My Portfolio ➹ </a>
+  <a href="https://mohamedshemees.github.io/index" target="_blank">  My Portfolio  </a>
 </h2>
 
 
