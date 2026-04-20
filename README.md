@@ -96,7 +96,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 <br/>
 
 <!-- Contribution Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohamedshemees&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=mohamedshemees&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/>
 
