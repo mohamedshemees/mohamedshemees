@@ -22,7 +22,7 @@ Always curious, always building — I enjoy learning new technologies and applyi
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [MoneyPlusPlus (Flutter)](https://github.com/mohamedshemees/MoneyPlus) | Smart finance tracking app with visual reports and transaction logging. | Flutter, Dart, Firebase, Supabase, Cubit, Charts, Flutter Secure Storage |
+| [MoneyPlusPlus (Flutter)](https://github.com/PennyPilot/MoneyPlus) | Smart finance tracking app with visual reports and transaction logging. | Flutter, Dart, Firebase, Supabase, Cubit, Charts, Flutter Secure Storage |
 | [CurrencyX (Flutter)](https://github.com/mohamedshemees/currencyX_flutter) | Real-time currency exchange rates app with Clean Architecture. | Flutter, Dio, Cubit, Clean Architecture |
 | [MENA (KMP)](https://github.com/mohamedshemees/MENA-mobile) | A super-app for the MENA region featuring messaging, blockchain gifts, and e-commerce. | Kotlin Multiplatform, Compose Multiplatform |
 | [Aflami App (Jetpack Compose)](https://github.com/mohamedshemees/Aflami) | Movie and TV show exploration app powered by TMDB API with modular Clean Architecture. | Kotlin, TMDB API, Clean Architecture, Modularization |
