@@ -88,10 +88,10 @@ Always curious, always building — I enjoy learning new technologies and applyi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedshemees&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=050F2C&color=00AEFF&line=00AEFF&point=ffffff&area_color=00AEFF&title_color=00AEFF&area=true" alt="Contribution Graph" />
 
 <br/>
-
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedshemees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&cache_seconds=1800" alt="Mohamed's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedshemees&layout=compact&theme=algolia&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img height="240em" src="https://github-stats-extended.vercel.app/api?username=mohamedshemees&show_icons=true&theme=algolia&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&custom_title=Shemees's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&cache_seconds=1800" alt="Mohamed's GitHub Stats"/>
+
+<img height="240em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedshemees&layout=compact&theme=algolia&hide_border=true&langs_count=4&cache_seconds=1800" alt="Top Languages"/>
 
 <br/>
 
@@ -99,13 +99,6 @@ Always curious, always building — I enjoy learning new technologies and applyi
 <img src="https://streak-stats.demolab.com/?user=mohamedshemees&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/>
-
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedshemees&theme=algolia" alt="Profile Details"/>
-
-<br/>
-
-
 
 <!-- Profile Views & Status -->
 <img src="https://komarev.com/ghpvc/?username=mohamedshemees&style=for-the-badge&color=00AEFF" alt="Profile Views"/>
